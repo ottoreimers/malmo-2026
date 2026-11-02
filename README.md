@@ -1,1 +1,1 @@
-# frojd-jubileum-simple.github.io
+No animations, just html
